@@ -1,5 +1,5 @@
-# [Highlight](https://chrome.google.com/webstore/detail/highlight/lokgbeagjjdgpdfcgbafajfgbjiocjod)
-An extension that saves your place in the page.
+# Highlight
+An extension that saves your place in the page. [Chrome Web Store](https://chrome.google.com/webstore/detail/highlight/lokgbeagjjdgpdfcgbafajfgbjiocjod) - [Firefox Addons](https://addons.mozilla.org/en-US/firefox/addon/highlightapp)
 
 ## About 
 Designed for reading long articles or highlighting a specific passage.  
